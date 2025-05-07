@@ -7,13 +7,13 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/hzhzh
 MakeWindow({
   Hub = {
     Title = "🔥👀 - GET NEL BACHIRA - 🔥👀",
-    Animation = "NEL BACHIRA!!!"
+    Animation = "GKSJSK"
   },
   Key = {
     KeySystem = true,
     Title = "🔥👀 - GET NEL BACHIRA - 🔥👀",
-    Description = "^ AND AFK REWARDS! ^",
-    KeyLink = "https://discord.gg/yM9MeK37",
+    Description = "^ GET RIN BEFORE REWORK!🔥 ^",
+    KeyLink = "https://link-hub.net/1288118/blue-lock-rivals",
     Keys = {"zbjssiisjdhd", "isopods", "huausushsj", "sshshhsshu", "sususu37"},
     Notifi = {
       Notifications = true,
